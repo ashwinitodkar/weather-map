@@ -13,6 +13,13 @@
 3. `$ npm install`
 4. start api server `$ node app.js`
 
+
+## API Look
+
+1. Desktop View
+
+![Screenshot](./weather-api.png)
+
 # API Documentation
 
 1. Get today's weather if today is prime number
