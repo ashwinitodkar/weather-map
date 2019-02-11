@@ -1,0 +1,32 @@
+{
+  "name": "weather-map",
+  "version": "1.0.0",
+  "description": "weather-map",
+  "main": "app.js",
+  "engines": {
+    "node": "8.8.1",
+    "npm": "5.4.2"
+  },
+  "author": "ashwinitodkar",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.4",
+    "express-device": "^0.4.2",
+    "joi": "^14.3.1",
+    "moment": "^2.24.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "swagger-jsdoc": "^1.9.7",
+    "swagger-ui-express": "^2.0.14",
+    "underscore": "^1.8.3",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "pm2": "^3.2.9"
+  }
+}
